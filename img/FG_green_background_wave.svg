@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="129px" viewBox="0 0 1440 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+    <title>Rectangle Copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Designs" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop---Homepage-----final" transform="translate(0.000000, -7169.000000)" fill="#808100">
+            <g id="background" transform="translate(721.500000, 7263.500000) rotate(-270.000000) translate(-721.500000, -7263.500000) translate(531.000000, 6542.000000)">
+                <g id="color-swatches" transform="translate(95.500000, -28.000000)">
+                    <path d="M11,29 L100.846509,29 C119.010115,317.723612 128.36876,521.232741 128.922445,639.527387 C129.823612,832.061461 105.837982,997.663054 105.837982,1123.96296 C105.837982,1366.66255 104.058655,1482.34156 100.5,1471 L10.6534907,1471 C10.7280121,1447.27923 10.6768486,1430.61256 10.5,1421 C9.35754678,1358.90222 8.72354332,1315.24515 9.5,1283 C13.304357,1125.01041 1.08981784,1002.51426 3.5,879 C6.25601391,737.76295 23.221814,600.77561 20.5,504 C19.6559039,473.987693 15.674925,335.496341 13.5,320 C-2.5,206 -3.33333333,109 11,29 Z" id="Rectangle-Copy"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
