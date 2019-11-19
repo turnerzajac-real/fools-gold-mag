@@ -579,7 +579,7 @@ footer {
     align-items: center;
     position: fixed;
     right: 0;
-    bottom: 250px;
+    top: 200px;
     transform-origin: center;
     transform: rotate(90deg);  
 }
@@ -698,7 +698,13 @@ footer {
 .next-prev-con > p:nth-child(2) {
     text-align: right;
 }
-
+.footer-sm-con {
+    width: 100%;
+    height: 100px;
+    background-color: #E69600;
+    display: block;
+    position: relative;
+}
 
 /*  type styles */
 
@@ -1331,6 +1337,13 @@ footer {
 .next-prev-con > p:nth-child(2) {
     text-align: right;
 }
+.footer-sm-con {
+    width: 100%;
+    height: 100px;
+    background-color: #E69600;
+    display: block;
+    position: relative;
+}
 
 /*  type styles */
 
@@ -1706,7 +1719,13 @@ header {
     width: 100%;
     margin-top: 0;
 }
-
+.footer-sm-con {
+    width: 100%;
+    height: 100px;
+    background-color: #E69600;
+    display: block;
+    position: relative;
+}
 /* editors letter section styes */
 .editors-letter-con {
     width: 100vw;
