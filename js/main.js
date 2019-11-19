@@ -6,6 +6,18 @@ $(".feature-article-con").on('mouseenter', function(){
   $('.title').removeClass('blue')
 })
 
+// nav resize
+
+$(window).scroll(function() {
+  if ($(this).scrollTop() > 50){
+      $('.fg-logo-con').addClass("sticky");
+  }
+  else{
+      $('.fg-logo-con').removeClass("sticky");
+  }
+});
+
+
 
 // gem locations
 function randomFromTo(from, to){
@@ -72,15 +84,6 @@ TweenMax.fromTo(rotate, 15, { y: "-100vh"}, { y: "100vh", ease:Linear.easeNone, 
 TweenMax.fromTo(rotateThree, 25, { y: "-100vh"}, { y: "100vh", ease:Linear.easeNone, repeat:-1});
 TweenMax.fromTo(rotateTwo, 32, { y: "-100vh"}, { y: "100vh", ease:Linear.easeNone, repeat:-1});
 
-// nav resize
 
-$(window).scroll(function() {
-  if ($(this).scrollTop() > 50){
-      $('.fg-logo-con').addClass("sticky");
-  }
-  else{
-      $('.fg-logo-con').removeClass("sticky");
-  }
-});
 
 
