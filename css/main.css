@@ -1731,6 +1731,7 @@ header {
     position: relative;
     background-color: #F5937F;
     padding-bottom: 50px;
+    padding-top: 50px;
 }
 .full-width-wave {
     width: 100%;
@@ -1821,12 +1822,15 @@ footer {
 }
 
 .copy-con {
-    margin-top: 50px;
     width: 100%;
     height: 50px;
     bottom: 25px;
     left: 50%;
     transform: translate(-50%)
+}
+.copy-con-grid {
+    grid-column-start: 2;
+    grid-column-end: 12;
 }
 .copy-social-content-con {
     width: 100%;
@@ -1836,7 +1840,6 @@ footer {
     align-items: center;
     
 }
-
 
 
 
@@ -1891,7 +1894,7 @@ footer {
     width: 100%;
     height: auto;
     padding-top: 100px;
-    padding-bottom: 100px;
+    padding-bottom: 45px;
 }
 .blog-sidebar-content-con {
     display: none;
